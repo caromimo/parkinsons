@@ -3,7 +3,10 @@ name = "Kaggle's Parkinson's Freezing of Gait Prediction"
 version = "0.0.1"
 description = "My contribution to the competition"
 authors = [{ name = "Caroline Mimeault", email = "carolinemimeault@gmail.com" }]
-dependencies = ["polars>=0.17.0"]
+dependencies = [
+    "polars>=0.17.0",
+    "pandas>=2.0.0",
+]
 requires-python = ">=3.11"
 license = { text = "MIT" }
 
