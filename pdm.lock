@@ -1,0 +1,19 @@
+[[package]]
+name = "polars"
+version = "0.17.0"
+requires_python = ">=3.7"
+summary = "Blazingly fast DataFrame library"
+
+[metadata]
+lock_version = "4.0"
+content_hash = "sha256:3ac5e72f57ba00e7225b33a3c2099949f0d5faddd2bb045e49d3f1cfd1fcdde0"
+
+[metadata.files]
+"polars 0.17.0" = [
+    {url = "https://files.pythonhosted.org/packages/0c/f9/bc25d6fbde333130c727bb39eca599a476dedead071ab325c7910473af02/polars-0.17.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3e5dc4f9617e21b1f4515ce8233ad9d1ffd11e113b801e8df175e8799a3cd3ff"},
+    {url = "https://files.pythonhosted.org/packages/7c/d4/c3d855bc8c3a74c4fba362cc4ab82fd2e0793e8b74bce446fa85d6d9f471/polars-0.17.0-cp37-abi3-macosx_10_7_x86_64.whl", hash = "sha256:173fb5e1f1752de7b3cd2dbfdcd504272521131b91d3a86fdfce0079e3ba6267"},
+    {url = "https://files.pythonhosted.org/packages/c4/a6/208ced60e8c4de13e1a0a0620c2996edc7afc4b096243c13048353ab5379/polars-0.17.0.tar.gz", hash = "sha256:6b4ea5c1700258583eda4946b406e43db424618f94d03e791065263ac759d38d"},
+    {url = "https://files.pythonhosted.org/packages/d4/7f/bed7c1e7388dda7353eec7bf15a9601d9867c274d976092dfb74a7b3323b/polars-0.17.0-cp37-abi3-win_amd64.whl", hash = "sha256:f1ef9dd06d19fd68fd81105fd2e2ec844b9a576325c4c7ca96205482d73e1faf"},
+    {url = "https://files.pythonhosted.org/packages/e7/99/289b205cf4ed53b1fb305da72fd125afad4bf257e4ec6655b8e0c31ee319/polars-0.17.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:c6beeabf731bb18ca9d0fcda2c5c3654fa22ddb110bcba4f01e521d726fcf6d1"},
+    {url = "https://files.pythonhosted.org/packages/ed/d5/29ee76087aa4b487c87fab80fec2c6de86d66ce60a4f63daa5abd4308151/polars-0.17.0-cp37-abi3-macosx_11_0_arm64.whl", hash = "sha256:a62f0e6b39099f71980e42998826e1f9f2501e6287683dbde82dfaee5dbcaf0c"},
+]
