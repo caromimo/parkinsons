@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/.venv/lib"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/.venv/lib"
+    ]
+}
